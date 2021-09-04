@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.My_List" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#0097A7</item>
+        <item name="colorPrimaryDark">#0097A7</item>
+
+        <item name="colorSecondary">#0097A7</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>

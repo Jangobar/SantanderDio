@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_List</string>
+    <string name="label_new_task">Adicionar Tarefa</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_date">Data</string>
+    <string name="label_time">hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Tarefas de Hoje</string>
+    <string name="label_descript_new_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Excluir</string>
+    <string name="label_empty_state">Ops! Ainda não há \n nenhuma tarefa...</string>
+</resources>
